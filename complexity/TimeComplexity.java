@@ -1,5 +1,3 @@
-import java.util.function.IntBinaryOperator;
-
 public class TimeComplexity {
     public static void main(String[] args) {
         int array[] = {3, 5, 1, 2, 4};
